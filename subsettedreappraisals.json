@@ -141,7 +141,7 @@
     "StimulusID": "task4_resp_3_33",
     "Scenario": "You are learning a new dance. Your partner realizes you are a fool when you try it.",
     "Condition": "H",
-    "response": "At least I got the first part together"
+    "response": "At least I got the first part of the dance together"
   },
   {
     "StimulusID": "task5_resp_3_104",
@@ -213,7 +213,7 @@
     "StimulusID": "task6_resp_5_103",
     "Scenario": "You are presenting your paper in front of your class. You get a lot of criticism at the end.",
     "Condition": "H",
-    "response": "Everyone gets critiqued � it's part of learning."
+    "response": "Everyone gets critiqued Ñ it's part of learning."
   },
   {
     "StimulusID": "task7_resp_4_150",
@@ -361,37 +361,37 @@
   },
   {
     "StimulusID": "task11_resp_2_33",
-    "Scenario": "You see a homeless man and his dog. They both look like they haven’t eaten in a long time.",
+    "Scenario": "You see a homeless man and his dog. They both look like they havenât eaten in a long time.",
     "Condition": "H",
     "response": "I'll stop and tell him where the nearest food bank or church is so he can get something to eat"
   },
   {
     "StimulusID": "task11_resp_1_124",
-    "Scenario": "You see a homeless man and his dog. They both look like they haven’t eaten in a long time.",
+    "Scenario": "You see a homeless man and his dog. They both look like they havenât eaten in a long time.",
     "Condition": "H",
     "response": "At least they have each other for company."
   },
   {
     "StimulusID": "task11_resp_2_104",
-    "Scenario": "You see a homeless man and his dog. They both look like they haven’t eaten in a long time.",
+    "Scenario": "You see a homeless man and his dog. They both look like they havenât eaten in a long time.",
     "Condition": "H",
     "response": "At least they are companions of each other."
   },
   {
     "StimulusID": "task11_resp_3_86",
-    "Scenario": "You see a homeless man and his dog. They both look like they haven’t eaten in a long time.",
+    "Scenario": "You see a homeless man and his dog. They both look like they havenât eaten in a long time.",
     "Condition": "H",
     "response": "This could be a reminder for me to stay thankful and help when I can."
   },
   {
     "StimulusID": "task11_resp_4_91",
-    "Scenario": "You see a homeless man and his dog. They both look like they haven’t eaten in a long time.",
+    "Scenario": "You see a homeless man and his dog. They both look like they havenât eaten in a long time.",
     "Condition": "H",
     "response": "They will get to experience life the other way round"
   },
   {
     "StimulusID": "task11_resp_2_148",
-    "Scenario": "You see a homeless man and his dog. They both look like they haven’t eaten in a long time.",
+    "Scenario": "You see a homeless man and his dog. They both look like they havenât eaten in a long time.",
     "Condition": "H",
     "response": "There could be a great bond between the man and his dog."
   },
@@ -1081,37 +1081,37 @@
   },
   {
     "StimulusID": "task11_resp_1_36",
-    "Scenario": "You see a homeless man and his dog. They both look like they haven’t eaten in a long time.",
+    "Scenario": "You see a homeless man and his dog. They both look like they havenât eaten in a long time.",
     "Condition": "L",
     "response": "I could grab him something to eat"
   },
   {
     "StimulusID": "task11_resp_2_26",
-    "Scenario": "You see a homeless man and his dog. They both look like they haven’t eaten in a long time.",
+    "Scenario": "You see a homeless man and his dog. They both look like they havenât eaten in a long time.",
     "Condition": "L",
     "response": "I refer them to a shelter"
   },
   {
     "StimulusID": "task11_resp_1_71",
-    "Scenario": "You see a homeless man and his dog. They both look like they haven’t eaten in a long time.",
+    "Scenario": "You see a homeless man and his dog. They both look like they havenât eaten in a long time.",
     "Condition": "L",
     "response": "Someone will hopefully buy them something."
   },
   {
     "StimulusID": "task11_resp_1_47",
-    "Scenario": "You see a homeless man and his dog. They both look like they haven’t eaten in a long time.",
+    "Scenario": "You see a homeless man and his dog. They both look like they havenât eaten in a long time.",
     "Condition": "L",
     "response": "I would offer to buy them food or water."
   },
   {
     "StimulusID": "task11_resp_4_11",
-    "Scenario": "You see a homeless man and his dog. They both look like they haven’t eaten in a long time.",
+    "Scenario": "You see a homeless man and his dog. They both look like they havenât eaten in a long time.",
     "Condition": "L",
     "response": "I can find information about services in my area that can help"
   },
   {
     "StimulusID": "task11_resp_2_11",
-    "Scenario": "You see a homeless man and his dog. They both look like they haven’t eaten in a long time.",
+    "Scenario": "You see a homeless man and his dog. They both look like they havenât eaten in a long time.",
     "Condition": "L",
     "response": "it is important that I make sure he feels seen"
   },
@@ -1801,37 +1801,37 @@
   },
   {
     "StimulusID": "task11_resp_4_74",
-    "Scenario": "You see a homeless man and his dog. They both look like they haven’t eaten in a long time.",
+    "Scenario": "You see a homeless man and his dog. They both look like they havenât eaten in a long time.",
     "Condition": "M",
     "response": "He is not lonely"
   },
   {
     "StimulusID": "task11_resp_2_29",
-    "Scenario": "You see a homeless man and his dog. They both look like they haven’t eaten in a long time.",
+    "Scenario": "You see a homeless man and his dog. They both look like they havenât eaten in a long time.",
     "Condition": "M",
     "response": "They may both be naturally thin."
   },
   {
     "StimulusID": "task11_resp_2_87",
-    "Scenario": "You see a homeless man and his dog. They both look like they haven’t eaten in a long time.",
+    "Scenario": "You see a homeless man and his dog. They both look like they havenât eaten in a long time.",
     "Condition": "M",
     "response": "This is inspiration to never take anything for granted"
   },
   {
     "StimulusID": "task11_resp_5_4",
-    "Scenario": "You see a homeless man and his dog. They both look like they haven’t eaten in a long time.",
+    "Scenario": "You see a homeless man and his dog. They both look like they havenât eaten in a long time.",
     "Condition": "M",
     "response": "I am glad I could help if i gave him food"
   },
   {
     "StimulusID": "task11_resp_3_72",
-    "Scenario": "You see a homeless man and his dog. They both look like they haven’t eaten in a long time.",
+    "Scenario": "You see a homeless man and his dog. They both look like they havenât eaten in a long time.",
     "Condition": "M",
     "response": "At least the weather is nice and he has a raincoat if it rains"
   },
   {
     "StimulusID": "task11_resp_2_135",
-    "Scenario": "You see a homeless man and his dog. They both look like they haven’t eaten in a long time.",
+    "Scenario": "You see a homeless man and his dog. They both look like they havenât eaten in a long time.",
     "Condition": "M",
     "response": "They are actually on their way to get some food"
   },
@@ -2067,7 +2067,7 @@
     "StimulusID": "task18_resp_1_79",
     "Scenario": "Your relative is arranging her will. The amount of money she will leave you is miniscule according to the rest of the family.",
     "Condition": "M",
-    "response": "I would think we weren't close anyway so I have something"
+    "response": "I would think we weren't close anyway so at least I have something"
   },
   {
     "StimulusID": "task18_resp_4_18",
